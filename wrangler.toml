@@ -1,0 +1,4 @@
+name = "ygk3"
+main = "nat64套壳版混淆.js"
+compatibility_date = "2026-03-18"
+keep_vars = true
